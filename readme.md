@@ -76,6 +76,14 @@ The API is built using FastAPI and provides endpoints for emotion prediction.
 }
 ```
 
+## Live API
+
+The API is deployed on Render and can be accessed at:
+
+**https://textemotions-8p94.onrender.com/**
+
+You can use this URL in place of localhost in the usage examples below.
+
 ## Setup and Installation
 
 1. Clone the repository
@@ -123,9 +131,9 @@ response = requests.post(
 print(response.json())
 ```
 
-### Social Handles
+## Social Handles
 
-- [GitHub](https://github.com/NamanGupta)
-- [LinkedIn](https://github.com/RohanGupta)
-- [Twitter](https://github.com/NamanGupta)
+- [GitHub](https://github.com/Namangupta123)
+- [LinkedIn](https://www.linkedin.com/in/naman-gupta-cse)
+- [Twitter](https://x.com/namangupta0330)
 - [Email](mailto:namanguptacse0330@gmail.com)
